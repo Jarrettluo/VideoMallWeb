@@ -203,6 +203,9 @@ with app.test_request_context():
     print(url_for('login'))
     print(url_for('login', next='/'))
     print(url_for('profile', username='John Doe'))
+    
+    fffffj
 """
 if __name__ == '__main__':
     app.run()
+    print("kaiqi")
